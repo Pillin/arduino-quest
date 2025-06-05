@@ -1,0 +1,40 @@
+{
+  "title": "Acerca del programa",
+  "description": "Arduino Quest es un programa intensivo de 4 semanas organizado por Niñas Pro, diseñado para introducir a niñas de enseñanza media en el mundo de la electrónica y programación.",
+  "purposeSection": {
+    "title": "Propósito del programa",
+    "content": "Fomentar la participación femenina en STEM mediante una experiencia práctica, creativa y colaborativa que combine simulación y hardware físico, desarrollando habilidades en pensamiento computacional, resolución de problemas y autogestión del aprendizaje."
+  },
+  "formatSection": {
+    "title": "Formato del programa",
+    "items": {
+      "Fechas": "10 Agosto 2025 al 6 de Septiembre",
+      "Modalidad": "Híbrida (online y presencial)",
+      "Localidad": "Edmundo Larenas 219, Concepción. Facultad de Ingeniería, Universidad de Concepción.",
+      "Duración de clases": "90 minutos",
+      "Duración de mentorías": "15 - 45 minutos"
+    }
+  },
+  "features": [
+    {
+      "icon": "LightbulbIcon",
+      "title": "Aprendizaje práctico",
+      "description": "Combinamos teoría con práctica, usando simuladores y hardware físico de Arduino."
+    },
+    {
+      "icon": "BrainCircuit",
+      "title": "Pensamiento computacional",
+      "description": "Desarrollo de habilidades lógicas y de resolución de problemas."
+    },
+    {
+      "icon": "Users",
+      "title": "Mentoría personalizada",
+      "description": "Acompañamiento continuo por mentoras especializadas durante todo el programa."
+    },
+    {
+      "icon": "GraduationCap",
+      "title": "Proyecto final",
+      "description": "Las participantes crean su propio prototipo físico y lo presentan en el evento de cierre."
+    }
+  ]
+}

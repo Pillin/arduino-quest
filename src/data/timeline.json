@@ -1,0 +1,63 @@
+{
+  "events": [
+    {
+      "date": "10 junio 2025",
+      "format": "Online",
+      "activity": "Apertura del formulario de inscripción",
+      "description": "Se abre el proceso de inscripción para alumnas y voluntarias interesadas en participar en el programa.",
+      "icon": "CalendarDays"
+    },
+    {
+      "date": "10 - 28 junio 2025",
+      "format": "Online",
+      "activity": "Período activo de inscripciones",
+      "description": "Inscripciones abiertas y entrevistas a voluntarias para selección de participantes.",
+      "icon": "CalendarDays"
+    },
+    {
+      "date": "11 julio 2025",
+      "format": "Online",
+      "activity": "Publicación de resultados",
+      "description": "Anuncio de alumnas y voluntarias aceptadas en el programa.",
+      "icon": "CalendarDays"
+    },
+    {
+      "date": "23 julio 2025",
+      "format": "Online",
+      "activity": "Reunión general con voluntarias",
+      "description": "Sesión de capacitación y coordinación con el equipo de voluntarias.",
+      "icon": "CalendarDays"
+    },
+    {
+      "date": "4 agosto 2025",
+      "format": "Online",
+      "activity": "Preparación de materiales",
+      "description": "Envío de materiales a Concepción y revisión final de plataformas (Tinkercad, Classroom).",
+      "icon": "CalendarDays"
+    },
+    {
+      "date": "11 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Clase 1",
+      "description": "Introducción a conceptos básicos de electrónica.",
+      "icon": "Clock"
+    },
+    {
+      "date": "23 agosto 2025",
+      "time": "11:00 hrs",
+      "format": "Presencial",
+      "activity": "Entrega de kits Arduino",
+      "description": "Entrega presencial de kits Arduino + charla + visita guiada al laboratorio de robótica.",
+      "icon": "MapPin"
+    },
+    {
+      "date": "6 septiembre 2025",
+      "time": "11:00 hrs",
+      "format": "Presencial",
+      "activity": "Evento de Cierre",
+      "description": "Presentación de proyectos finales y ceremonia de graduación.",
+      "icon": "MapPin"
+    }
+  ]
+}

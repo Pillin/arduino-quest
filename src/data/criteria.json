@@ -1,0 +1,62 @@
+{
+  "requirements": [
+    {
+      "icon": "GraduationCap",
+      "title": "Nivel educativo",
+      "description": "Abierto a niñas desde 8vo básico que ya hayan participado en programas de programación anteriormente."
+    },
+    {
+      "icon": "Code",
+      "title": "Conocimientos previos",
+      "description": "Se requieren conocimientos básicos en programación. No es necesario tener experiencia con Arduino."
+    },
+    {
+      "icon": "Clock",
+      "title": "Compromiso de tiempo",
+      "description": "Las participantes deben comprometerse con la asistencia a clases, entrega de ejercicios y participación en mentorías."
+    }
+  ],
+  "idealProfile": [
+    "Interés en la tecnología y la electrónica",
+    "Curiosidad por aprender cómo funcionan los dispositivos electrónicos",
+    "Disposición para trabajar en equipo y compartir conocimientos",
+    "Perseverancia ante los desafíos técnicos"
+  ],
+  "advancementCriteria": [
+    {
+      "stage": "Primera Etapa",
+      "criteria": [
+        "Responder todos los quiz de introducción a Arduino y Tinkercad",
+        "Asistir a al menos 3 de las clases online",
+        "Enviar resolución del ejercicio propuesto"
+      ]
+    },
+    {
+      "stage": "Segunda Etapa",
+      "criteria": [
+        "Implementar revisión del ejercicio",
+        "Asistir al menos a 1 de las clases online",
+        "Enviar resolución en Tinkercad del proyecto"
+      ]
+    },
+    {
+      "stage": "Tercera Etapa",
+      "criteria": [
+        "Implementar corrección del primer avance del proyecto",
+        "Asistir al menos a 1 de las sesiones online"
+      ]
+    },
+    {
+      "stage": "Cuarta Etapa",
+      "criteria": [
+        "Asistir a al menos 2 mentorías",
+        "Entregar video del proyecto terminado"
+      ]
+    }
+  ],
+  "importantConsiderations": [
+    "El cupo máximo es de 50 participantes",
+    "Se estima una dedicación semanal de 5-7 horas",
+    "Es necesario contar con acceso a internet para las sesiones online"
+  ]
+}

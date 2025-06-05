@@ -1,0 +1,53 @@
+{
+  "stages": [
+    {
+      "icon": "LaptopIcon",
+      "title": "Etapa 1: Exploración Digital",
+      "date": "Agosto 11, 2025",
+      "format": "Online",
+      "description": "Clases teóricas y ejercicios en Tinkercad sobre electrónica básica, salidas analógicas, salidas/entradas digitales, motores, sensores.",
+      "requirements": [
+        "Completar Kahoot diario",
+        "Asistir a clases (% mínimo de asistencia)",
+        "Enviar ejercicio en simulador"
+      ],
+      "color": "bg-primary-600"
+    },
+    {
+      "icon": "GalleryVerticalEnd",
+      "title": "Etapa 2: Desafío Creativo",
+      "date": "Agosto 18, 2025",
+      "format": "Online",
+      "description": "Selección y desarrollo de un proyecto en Tinkercad.",
+      "requirements": [
+        "Asistencia (% mínimo de asistencia)",
+        "Envío del link de su proyecto en Tinkercad y video del proyecto en simulador"
+      ],
+      "color": "bg-secondary-600"
+    },
+    {
+      "icon": "Package",
+      "title": "Etapa 3: Prototipado Físico",
+      "date": "Agosto 25, 2025",
+      "format": "Presencial",
+      "description": "Revisión del proyecto, entrega presencial del kit Arduino, primeros pasos con componentes físicos y charlas motivacionales.",
+      "requirements": [
+        "Asistencia a sesiones (% mínimo de asistencia)",
+        "Avance del proyecto físico"
+      ],
+      "color": "bg-accent-500"
+    },
+    {
+      "icon": "Presentation",
+      "title": "Etapa 4: Finalización y Presentación",
+      "date": "Septiembre 1, 2025",
+      "format": "Presencial",
+      "description": "Mentorías para finalizar el proyecto y evento de cierre con presentación de resultados.",
+      "requirements": [
+        "Asistencia a mentorías (% mínimo de asistencia)",
+        "Entrega de video del proyecto final"
+      ],
+      "color": "bg-success-600"
+    }
+  ]
+}

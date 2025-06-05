@@ -1,0 +1,34 @@
+{
+  "badge": {
+    "text": "Programa educativo 2025",
+    "sponsor": "Patrocinado por Synopsys"
+  },
+  "title": "Arduino Quest",
+  "description": "Una experiencia educativa intensiva y transformadora para niñas de enseñanza media que desean introducirse en el mundo de la electrónica y programación.",
+  "buttons": [
+    {
+      "text": "Inscríbete ahora",
+      "href": "#register",
+      "type": "primary",
+      "icon": "ArrowRight"
+    },
+    {
+      "text": "Conoce más",
+      "href": "#about",
+      "type": "outline"
+    }
+  ],
+  "featuredImage": {
+    "src": "https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg",
+    "alt": "Niñas aprendiendo con Arduino"
+  },
+  "card": {
+    "icon": "Cpu",
+    "title": "Programación y electrónica",
+    "description": "4 semanas de aprendizaje práctico, mentorías personalizadas y un proyecto final con Arduino.",
+    "details": {
+      "dates": "10 Agosto - 6 Septiembre 2025",
+      "modality": "Modalidad híbrida"
+    }
+  }
+}

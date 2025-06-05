@@ -1,0 +1,62 @@
+{
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "50+",
+      "label": "Participantes anuales",
+      "description": "Niñas que se benefician del programa cada año"
+    },
+    {
+      "icon": "TrendingUp",
+      "value": "85%",
+      "label": "Tasa de finalización",
+      "description": "Participantes que completan todo el programa"
+    },
+    {
+      "icon": "BarChart",
+      "value": "92%",
+      "label": "Satisfacción",
+      "description": "Participantes que recomendarían el programa"
+    },
+    {
+      "icon": "Award",
+      "value": "30+",
+      "label": "Proyectos creados",
+      "description": "Prototipos funcionales desarrollados por cohorte"
+    }
+  ],
+  "evaluation": {
+    "instruments": [
+      "Encuestas pre y post curso para evaluar la evolución en conocimientos, confianza y motivación hacia STEM.",
+      "Formularios de satisfacción del curso y mentorías para recoger percepciones sobre la experiencia.",
+      "Registro de participación y desempeño, incluyendo asistencia y cumplimiento de hitos.",
+      "Evaluación cualitativa de proyectos finales analizando creatividad, funcionalidad y documentación."
+    ],
+    "results": [
+      "Publicación de un informe visual con estadísticas y aprendizajes destacados.",
+      "Galería online con proyectos desarrollados por las participantes (previo consentimiento).",
+      "Clips breves con testimonios de participantes, mentoras y equipo organizador.",
+      "Compartir los resultados con instituciones educativas y organizaciones STEM."
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Arduino Quest cambió mi perspectiva sobre la tecnología. Ahora sé que puedo crear mis propios proyectos electrónicos y resolver problemas reales con la programación.",
+      "name": "Carolina Martínez",
+      "role": "Participante 2024",
+      "rating": 5
+    },
+    {
+      "quote": "Lo que más me gustó del programa fue la combinación entre teoría y práctica. Las mentorías personalizadas me ayudaron a superar los obstáculos cuando me sentía estancada.",
+      "name": "Valentina Gómez",
+      "role": "Participante 2024",
+      "rating": 5
+    },
+    {
+      "quote": "Como mentora, ver la evolución de las niñas durante el programa es increíblemente gratificante. Pasan de tener dudas sobre sus capacidades a crear proyectos impresionantes en solo 4 semanas.",
+      "name": "Ana Rodríguez",
+      "role": "Mentora",
+      "rating": 5
+    }
+  ]
+}

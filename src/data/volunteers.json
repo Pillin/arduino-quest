@@ -1,0 +1,65 @@
+{
+  "volunteers": [
+    {
+      "name": "María González",
+      "role": "Coordinadora General",
+      "tag": "líder",
+      "image": "https://images.pexels.com/photos/3796217/pexels-photo-3796217.jpeg",
+      "social": {
+        "linkedin": "https://linkedin.com/in/mariagonzalez",
+        "github": "https://github.com/mariagonzalez",
+        "instagram": "https://instagram.com/mariagonzalez"
+      }
+    },
+    {
+      "name": "Ana Silva",
+      "role": "Coordinadora de Mentoras",
+      "tag": "gestión",
+      "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg",
+      "social": {
+        "linkedin": "https://linkedin.com/in/anasilva",
+        "github": "https://github.com/anasilva"
+      }
+    },
+    {
+      "name": "Carolina Pérez",
+      "role": "Mentora Senior",
+      "tag": "mentora",
+      "image": "https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg",
+      "social": {
+        "linkedin": "https://linkedin.com/in/carolinaperez",
+        "instagram": "https://instagram.com/carolinaperez"
+      }
+    },
+    {
+      "name": "Valentina Rodríguez",
+      "role": "Coordinadora de Logística",
+      "tag": "gestión",
+      "image": "https://images.pexels.com/photos/3757004/pexels-photo-3757004.jpeg",
+      "social": {
+        "linkedin": "https://linkedin.com/in/valentinarodriguez",
+        "github": "https://github.com/valentinarodriguez"
+      }
+    },
+    {
+      "name": "Laura Martínez",
+      "role": "Mentora de Electrónica",
+      "tag": "mentora",
+      "image": "https://images.pexels.com/photos/3765114/pexels-photo-3765114.jpeg",
+      "social": {
+        "linkedin": "https://linkedin.com/in/lauramartinez",
+        "instagram": "https://instagram.com/lauramartinez"
+      }
+    },
+    {
+      "name": "Sofía Torres",
+      "role": "Mentora de Programación",
+      "tag": "mentora",
+      "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg",
+      "social": {
+        "linkedin": "https://linkedin.com/in/sofiatorres",
+        "github": "https://github.com/sofiatorres"
+      }
+    }
+  ]
+}

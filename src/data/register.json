@@ -1,0 +1,41 @@
+{
+  "steps": [
+    {
+      "icon": "ClipboardList",
+      "title": "Completa el formulario",
+      "description": "Llena el formulario de inscripción con tus datos personales y educativos. Disponible desde el 10 de junio 2025."
+    },
+    {
+      "icon": "CalendarCheck",
+      "title": "Espera la confirmación",
+      "description": "Los resultados de la selección serán publicados el 11 de julio 2025 en nuestro sitio web y se notificará por correo electrónico."
+    },
+    {
+      "icon": "Users",
+      "title": "Asiste a la primera clase",
+      "description": "El programa inicia el 11 de agosto 2025 con la primera clase online. Recibirás los accesos y materiales previo al inicio."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "¡Comienza tu aventura!",
+      "description": "Durante 4 semanas, aprenderás electrónica y programación con Arduino mientras desarrollas tu propio proyecto creativo."
+    }
+  ],
+  "registrationPeriod": {
+    "start": "10 de junio",
+    "end": "28 de junio del 2025",
+    "maxParticipants": 50
+  },
+  "buttons": [
+    {
+      "text": "Pre-inscríbete como alumna",
+      "icon": "ClipboardList",
+      "type": "primary"
+    },
+    {
+      "text": "Postula como voluntaria",
+      "icon": "Heart",
+      "type": "accent"
+    }
+  ]
+}

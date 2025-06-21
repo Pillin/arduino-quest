@@ -74,7 +74,7 @@ const Hero: React.FC = () => {
                   <div className="absolute top-4 left-4">
                     <div className="flex items-center bg-black/70 backdrop-blur-sm rounded-lg px-3 py-2">
                       <Play className="h-4 w-4 text-white mr-2" />
-                      <span className="text-white text-sm font-medium">Edición 2024</span>
+                      <span className="text-white text-sm font-medium">Edición 2021</span>
                     </div>
                   </div>
                 </div>
@@ -92,7 +92,7 @@ const Hero: React.FC = () => {
                   {/* Video description */}
                   <div className="bg-gray-50 rounded-lg p-3 mb-4">
                     <p className="text-sm text-gray-600">
-                      <span className="font-medium text-gray-700">Video:</span> Momentos destacados de Arduino Quest 2024, 
+                      <span className="font-medium text-gray-700">Video:</span> Momentos destacados de Arduino Quest 2021, 
                       mostrando las actividades y el ambiente del programa anterior.
                     </p>
                   </div>

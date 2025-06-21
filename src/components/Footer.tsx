@@ -41,9 +41,9 @@ const Footer: React.FC = () => {
                 className="inline-block mt-2"
               >
                 <img 
-                  src="https://www.synopsys.com/content/dam/synopsys/company/about/synopsys-logo-white.svg" 
+                  src="https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Synopsys/synopsys-logo-color.svg" 
                   alt="Synopsys" 
-                  className="h-8"
+                  className="h-8 filter brightness-0 invert"
                 />
               </a>
             </div>

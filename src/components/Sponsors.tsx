@@ -58,7 +58,7 @@ const Sponsors: React.FC = () => {
               <div className="flex flex-col md:flex-row items-center gap-8">
                 <div className="flex-shrink-0">
                   <img 
-                    src="https://www.synopsys.com/content/dam/synopsys/company/about/synopsys-logo-color.png" 
+                    src="https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Synopsys/synopsys-logo-color.svg" 
                     alt="Synopsys" 
                     className="h-16 md:h-20"
                   />

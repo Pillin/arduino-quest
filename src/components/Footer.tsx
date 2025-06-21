@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrainCircuit, Mail, MapPin, Instagram, Linkedin, ExternalLink } from 'lucide-react';
+import { Mail, MapPin, Instagram, Linkedin, ExternalLink } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -8,9 +8,16 @@ const Footer: React.FC = () => {
         <div className="grid md:grid-cols-4 gap-8">
           {/* Logo and description */}
           <div className="md:col-span-2">
-            <div className="flex items-center space-x-2 mb-4">
-              <BrainCircuit className="h-8 w-8 text-primary-400" />
-              <span className="text-xl font-heading font-bold">Arduino Quest</span>
+            <div className="flex items-center space-x-3 mb-4">
+              <img 
+                src="https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
+                alt="Niñas Pro"
+                className="h-10 w-auto filter brightness-0 invert"
+              />
+              <div className="flex flex-col">
+                <span className="text-xl font-heading font-bold">Arduino Quest</span>
+                <span className="text-sm text-gray-400 -mt-1">by Niñas Pro</span>
+              </div>
             </div>
             <p className="text-gray-400 mb-6 max-w-md">
               Una iniciativa de Niñas Pro para fomentar la participación femenina en STEM mediante una experiencia educativa intensiva y transformadora en electrónica y programación.

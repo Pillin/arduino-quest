@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrainCircuit, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 
 const Navbar: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -25,11 +25,20 @@ const Navbar: React.FC = () => {
       }`}
     >
       <div className="container-custom flex items-center justify-between">
-        <a href="#" className="flex items-center space-x-2">
-          <BrainCircuit className="h-8 w-8 text-primary-600" />
-          <span className="text-xl font-heading font-bold text-gray-900">
-            Arduino Quest
-          </span>
+        <a href="#" className="flex items-center space-x-3">
+          <img 
+            src="https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
+            alt="Niñas Pro"
+            className="h-10 w-auto"
+          />
+          <div className="flex flex-col">
+            <span className="text-lg font-heading font-bold text-gray-900">
+              Arduino Quest
+            </span>
+            <span className="text-xs text-gray-600 -mt-1">
+              by Niñas Pro
+            </span>
+          </div>
         </a>
         
         {/* Desktop menu */}

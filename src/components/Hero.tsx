@@ -56,11 +56,20 @@ const Hero: React.FC = () => {
             >
               <div className="absolute -inset-4 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-xl opacity-30 blur-lg"></div>
               <Card>
-                <img 
-                  src={heroData.featuredImage.src}
-                  alt={heroData.featuredImage.alt}
-                  className="w-full h-auto object-cover rounded-t-xl"
-                />
+                <div className="relative overflow-hidden rounded-t-xl">
+                  <video 
+                    src="https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Actividades/Arduino%20Quest/corto_5.mp4"
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    className="w-full h-64 object-cover"
+                  >
+                    Tu navegador no soporta el elemento de video.
+                  </video>
+                  {/* Overlay gradient for better text readability */}
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+                </div>
                 <div className="p-6">
                   <div className="flex items-center mb-4">
                     <Cpu className="h-6 w-6 text-primary-500 mr-2" />

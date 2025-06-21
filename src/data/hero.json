@@ -18,9 +18,9 @@
       "type": "outline"
     }
   ],
-  "featuredImage": {
-    "src": "https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg",
-    "alt": "Niñas aprendiendo con Arduino"
+  "featuredVideo": {
+    "src": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Actividades/Arduino%20Quest/corto_5.mp4",
+    "alt": "Video de Arduino Quest mostrando actividades del programa"
   },
   "card": {
     "icon": "Cpu",

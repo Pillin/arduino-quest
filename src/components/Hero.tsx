@@ -56,7 +56,7 @@ const Hero: React.FC = () => {
             >
               <div className="absolute -inset-4 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-xl opacity-30 blur-lg"></div>
               <Card>
-                <div className="relative overflow-hidden rounded-t-xl">
+                <div className="relative overflow-hidden rounded-t-xl bg-gray-900">
                   <video 
                     src="https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Actividades/Arduino%20Quest/corto_5.mp4"
                     autoPlay
@@ -64,11 +64,10 @@ const Hero: React.FC = () => {
                     muted
                     playsInline
                     className="w-full h-64 object-cover"
+                    poster="https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg"
                   >
                     Tu navegador no soporta el elemento de video.
                   </video>
-                  {/* Overlay gradient for better text readability */}
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
                   
                   {/* Video context badge */}
                   <div className="absolute top-4 left-4">

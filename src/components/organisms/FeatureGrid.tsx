@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import IconCard from '../molecules/IconCard';
-import { DivideIcon as LucideIcon } from 'lucide-react';
+import { LucideIcon } from 'lucide-react';
 
 interface Feature {
   icon: string;

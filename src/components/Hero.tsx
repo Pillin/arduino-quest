@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ArrowRight, Cpu } from 'lucide-react';
+import { ArrowRight, Cpu, Play } from 'lucide-react';
 import Button from './atoms/Button';
 import Card from './atoms/Card';
 import Tag from './atoms/Tag';
@@ -69,6 +69,14 @@ const Hero: React.FC = () => {
                   </video>
                   {/* Overlay gradient for better text readability */}
                   <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+                  
+                  {/* Video context badge */}
+                  <div className="absolute top-4 left-4">
+                    <div className="flex items-center bg-black/70 backdrop-blur-sm rounded-lg px-3 py-2">
+                      <Play className="h-4 w-4 text-white mr-2" />
+                      <span className="text-white text-sm font-medium">Edición 2024</span>
+                    </div>
+                  </div>
                 </div>
                 <div className="p-6">
                   <div className="flex items-center mb-4">
@@ -77,10 +85,19 @@ const Hero: React.FC = () => {
                       {heroData.card.title}
                     </h3>
                   </div>
-                  <p className="text-gray-600">
+                  <p className="text-gray-600 mb-4">
                     {heroData.card.description}
                   </p>
-                  <div className="mt-4 flex items-center text-sm text-primary-600 font-medium">
+                  
+                  {/* Video description */}
+                  <div className="bg-gray-50 rounded-lg p-3 mb-4">
+                    <p className="text-sm text-gray-600">
+                      <span className="font-medium text-gray-700">Video:</span> Momentos destacados de Arduino Quest 2024, 
+                      mostrando las actividades y el ambiente del programa anterior.
+                    </p>
+                  </div>
+                  
+                  <div className="flex items-center text-sm text-primary-600 font-medium">
                     <span>{heroData.card.details.dates}</span>
                     <span className="mx-2">•</span>
                     <span>{heroData.card.details.modality}</span>

@@ -3,7 +3,7 @@
     {
       "icon": "ClipboardList",
       "title": "Completa el formulario",
-      "description": "Llena el formulario de inscripción con tus datos personales y educativos. Disponible desde el 10 de junio 2025."
+      "description": "Llena el formulario de inscripción con tus datos personales y educativos. Disponible desde el 23 de junio 2025."
     },
     {
       "icon": "CalendarCheck",
@@ -22,13 +22,13 @@
     }
   ],
   "registrationPeriod": {
-    "start": "10 de junio",
-    "end": "28 de junio del 2025",
+    "start": "23 de junio",
+    "end": "8 de julio del 2025",
     "maxParticipants": 50
   },
   "buttons": [
     {
-      "text": "Pre-inscríbete como alumna",
+      "text": "Inscríbete como alumna",
       "icon": "ClipboardList",
       "type": "primary"
     },

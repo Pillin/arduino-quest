@@ -105,7 +105,7 @@ const Register: React.FC = () => {
               className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary-700 rounded-xl font-bold shadow-lg hover:bg-primary-50 transition-all duration-300 transform hover:-translate-y-1"
             >
               <ClipboardList className="mr-2 h-5 w-5" />
-              Pre-inscríbete como alumna
+              Inscríbete como alumna
             </a>
             
             <a 
@@ -118,7 +118,7 @@ const Register: React.FC = () => {
           </div>
           
           <p className="mt-4 text-sm opacity-80">
-            Al pre-inscribirte, recibirás una notificación cuando el formulario oficial esté disponible.
+            Al inscribirte, recibirás toda la información necesaria para participar en el programa.
           </p>
         </motion.div>
       </div>

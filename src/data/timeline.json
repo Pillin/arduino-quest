@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "date": "10 junio 2025",
+      "date": "23 junio 2025",
       "format": "Online",
       "activity": "Apertura del formulario de inscripción",
       "description": "Se abre el proceso de inscripción para alumnas y voluntarias interesadas en participar en el programa.",
       "icon": "CalendarDays"
     },
     {
-      "date": "10 - 28 junio 2025",
+      "date": "23 junio - 8 julio 2025",
       "format": "Online",
       "activity": "Período activo de inscripciones",
       "description": "Inscripciones abiertas y entrevistas a voluntarias para selección de participantes.",
@@ -39,24 +39,154 @@
       "date": "11 agosto 2025",
       "time": "18:00 hrs",
       "format": "Online",
-      "activity": "Clase 1",
-      "description": "Introducción a conceptos básicos de electrónica.",
+      "activity": "Clase 1 - Inicio del programa",
+      "description": "Primera clase de introducción a conceptos básicos de electrónica.",
       "icon": "Clock"
+    },
+    {
+      "date": "12 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Clase 2",
+      "description": "Continuación de conceptos básicos y ejercicios prácticos en Tinkercad.",
+      "icon": "Clock"
+    },
+    {
+      "date": "13 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Clase 3",
+      "description": "Profundización en salidas analógicas y digitales.",
+      "icon": "Clock"
+    },
+    {
+      "date": "14 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Clase 4 + Envío desafío 1",
+      "description": "Motores y sensores. Entrega del primer desafío práctico.",
+      "icon": "Clock"
+    },
+    {
+      "date": "15 agosto 2025",
+      "format": "Online",
+      "activity": "Clase 5",
+      "description": "Revisión de conceptos y resolución de dudas.",
+      "icon": "Clock"
+    },
+    {
+      "date": "16 agosto 2025",
+      "format": "Online",
+      "activity": "Clase 6 + Respuestas desafío 1",
+      "description": "Última clase de la etapa 1 y entrega de respuestas del desafío.",
+      "icon": "Clock"
+    },
+    {
+      "date": "17 agosto 2025",
+      "format": "Online",
+      "activity": "Revisión y feedback",
+      "description": "Revisión de desafíos, feedback personalizado y lista de participantes que avanzan.",
+      "icon": "CalendarDays"
+    },
+    {
+      "date": "18 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Mentoría + Envío desafío 2",
+      "description": "Inicio de la etapa 2 con mentorías personalizadas y nuevo desafío creativo.",
+      "icon": "Clock"
+    },
+    {
+      "date": "19 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Mentoría",
+      "description": "Sesión de mentoría para desarrollo del proyecto en Tinkercad.",
+      "icon": "Clock"
+    },
+    {
+      "date": "20 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Mentoría + Respuestas desafío 2",
+      "description": "Mentoría final de la etapa 2 y entrega de proyectos.",
+      "icon": "Clock"
+    },
+    {
+      "date": "21 agosto 2025",
+      "format": "Online",
+      "activity": "Revisión de proyectos",
+      "description": "Evaluación de proyectos desarrollados en Tinkercad y feedback.",
+      "icon": "CalendarDays"
+    },
+    {
+      "date": "22 agosto 2025",
+      "format": "Online",
+      "activity": "Selección para etapa presencial",
+      "description": "Publicación de lista de participantes que avanzan a la etapa presencial.",
+      "icon": "CalendarDays"
     },
     {
       "date": "23 agosto 2025",
       "time": "11:00 hrs",
       "format": "Presencial",
-      "activity": "Entrega de kits Arduino",
-      "description": "Entrega presencial de kits Arduino + charla + visita guiada al laboratorio de robótica.",
+      "activity": "Entrega de kits Arduino + Actividades especiales",
+      "description": "Entrega presencial de kits Arduino, charla motivacional, visita a laboratorio de robótica y mentoría.",
       "icon": "MapPin"
+    },
+    {
+      "date": "26 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Mentoría - Etapa 3",
+      "description": "Mentoría para desarrollo del proyecto físico con componentes Arduino.",
+      "icon": "Clock"
+    },
+    {
+      "date": "27 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Mentoría - Etapa 3",
+      "description": "Continuación del desarrollo del proyecto físico.",
+      "icon": "Clock"
+    },
+    {
+      "date": "28 agosto 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Mentoría - Etapa 3",
+      "description": "Resolución de problemas técnicos y avances del proyecto.",
+      "icon": "Clock"
+    },
+    {
+      "date": "1 septiembre 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Mentoría - Etapa 4",
+      "description": "Mentoría para finalización del proyecto y preparación de presentación.",
+      "icon": "Clock"
+    },
+    {
+      "date": "3 septiembre 2025",
+      "time": "18:00 hrs",
+      "format": "Online",
+      "activity": "Mentoría final",
+      "description": "Última mentoría antes del evento de cierre.",
+      "icon": "Clock"
+    },
+    {
+      "date": "4 septiembre 2025",
+      "format": "Online",
+      "activity": "Revisión final de proyectos",
+      "description": "Evaluación final de proyectos y confirmación de participantes graduadas.",
+      "icon": "CalendarDays"
     },
     {
       "date": "6 septiembre 2025",
       "time": "11:00 hrs",
       "format": "Presencial",
       "activity": "Evento de Cierre",
-      "description": "Presentación de proyectos finales y ceremonia de graduación.",
+      "description": "Presentación de proyectos finales, entrega de videos y ceremonia de graduación.",
       "icon": "MapPin"
     }
   ]

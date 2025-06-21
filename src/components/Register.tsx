@@ -20,7 +20,7 @@ const Register: React.FC = () => {
     {
       icon: <ClipboardList className="h-10 w-10 text-primary-500" />,
       title: "Completa el formulario",
-      description: "Llena el formulario de inscripción con tus datos personales y educativos. Disponible desde el 10 de junio 2025."
+      description: "Llena el formulario de inscripción con tus datos personales y educativos. Disponible desde el 23 de junio 2025."
     },
     {
       icon: <CalendarCheck className="h-10 w-10 text-primary-500" />,
@@ -96,7 +96,7 @@ const Register: React.FC = () => {
           className="flex flex-col items-center"
         >
           <p className="text-center mb-6 max-w-2xl mx-auto">
-            Las inscripciones estarán abiertas desde el <strong>10 de junio</strong> hasta el <strong>28 de junio del 2025</strong>. El cupo es limitado a 50 participantes, así que te recomendamos inscribirte lo antes posible.
+            Las inscripciones estarán abiertas desde el <strong>23 de junio</strong> hasta el <strong>8 de julio del 2025</strong>. El cupo es limitado a 50 participantes, así que te recomendamos inscribirte lo antes posible.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 mb-8">

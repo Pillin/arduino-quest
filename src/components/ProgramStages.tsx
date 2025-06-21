@@ -19,6 +19,7 @@ const ProgramStages: React.FC = () => {
       icon: <LaptopIcon className="h-10 w-10 text-white" />,
       title: "Etapa 1: Exploración Digital",
       date: "Agosto 11, 2025",
+      duration: "1 semana",
       format: "Online",
       description: "Clases teóricas y ejercicios en Tinkercad sobre electrónica básica, salidas analógicas, salidas/entradas digitales, motores, sensores.",
       requirements: [
@@ -32,6 +33,7 @@ const ProgramStages: React.FC = () => {
       icon: <GalleryVerticalEnd className="h-10 w-10 text-white" />,
       title: "Etapa 2: Desafío Creativo",
       date: "Agosto 18, 2025",
+      duration: "1 semana",
       format: "Online",
       description: "Selección y desarrollo de un proyecto en Tinkercad.",
       requirements: [
@@ -42,8 +44,9 @@ const ProgramStages: React.FC = () => {
     },
     {
       icon: <Package className="h-10 w-10 text-white" />,
-      title: "Etapa 3: Prototipado Físico",
+      title: "Etapa 3: Prototipado Físico y Motivación",
       date: "Agosto 25, 2025",
+      duration: "1 semana",
       format: "Presencial",
       description: "Revisión del proyecto, entrega presencial del kit Arduino, primeros pasos con componentes físicos y charlas motivacionales.",
       requirements: [
@@ -56,6 +59,7 @@ const ProgramStages: React.FC = () => {
       icon: <Presentation className="h-10 w-10 text-white" />,
       title: "Etapa 4: Finalización y Presentación",
       date: "Septiembre 1, 2025",
+      duration: "1 semana",
       format: "Presencial",
       description: "Mentorías para finalizar el proyecto y evento de cierre con presentación de resultados.",
       requirements: [
@@ -108,7 +112,7 @@ const ProgramStages: React.FC = () => {
               </div>
               <div className="p-6 flex-1 flex flex-col">
                 <div className="mb-2 text-sm font-medium text-gray-500">
-                  {stage.date}
+                  {stage.date} • {stage.duration}
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3">
                   {stage.title}

@@ -24,7 +24,7 @@
       "name": "Sofía Hernández",
       "role": "Gestión del Curso",
       "tag": "gestión",
-      "image": "https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Actividades/Arduino%20Quest/Fotos/Sofi%CC%81a%20Herna%CC%81ndez.jpeg",
       "social": {
         "linkedin": "https://www.linkedin.com/in/sof%C3%ADa-hern%C3%A1ndez-568286196/",
         "instagram": "https://instagram.com/sofia.hernandezh",
@@ -55,13 +55,14 @@
       }
     },
     {
-      "name": "Sofía Torres",
-      "role": "Mentora de Programación",
-      "tag": "mentora",
+      "name": "Tiare Vergara",
+      "role": "Comunicaciones",
+      "tag": "gestión",
       "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg",
       "social": {
-        "linkedin": "https://linkedin.com/in/sofiatorres",
-        "github": "https://github.com/sofiatorres"
+        "linkedin": "https://www.linkedin.com/in/tiare-pérez-515934268/",
+        "instagram": "https://www.instagram.com/tiareinstem/",
+        "twitter": "https://x.com/tiareinstem",
       }
     }
   ]

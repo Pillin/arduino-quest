@@ -1,10 +1,11 @@
 import React from 'react';
-import { Linkedin, Github, Instagram } from 'lucide-react';
+import { Linkedin, Github, Instagram, Twitter } from 'lucide-react';
 
 interface SocialLinksProps {
   linkedin?: string;
   github?: string;
   instagram?: string;
+  twitter?: string;
   className?: string;
 }
 
@@ -12,6 +13,7 @@ const SocialLinks: React.FC<SocialLinksProps> = ({
   linkedin,
   github,
   instagram,
+  twitter,
   className = ''
 }) => {
   return (
@@ -44,6 +46,16 @@ const SocialLinks: React.FC<SocialLinksProps> = ({
           className="text-gray-500 hover:text-primary-600 transition-colors"
         >
           <Instagram className="h-5 w-5" />
+        </a>
+      )}
+      {twitter && (
+        <a 
+          href={twitter}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-gray-500 hover:text-primary-600 transition-colors"
+        >
+          <Twitter className="h-5 w-5" />
         </a>
       )}
     </div>

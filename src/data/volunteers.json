@@ -10,13 +10,14 @@
       }
     },
     {
-      "name": "Ana Silva",
-      "role": "Coordinadora de Mentoras",
+      "name": "Mabel Vidal",
+      "role": "Gestión del Curso",
       "tag": "gestión",
-      "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Actividades/Arduino%20Quest/Fotos/Mabel%20Vidal.jpg",
       "social": {
-        "linkedin": "https://linkedin.com/in/anasilva",
-        "github": "https://github.com/anasilva"
+        "linkedin": "https://linkedin.com/in/mabel-vidalm",
+        "instagram": "https://instagram.com/mabelvidalm",
+        
       }
     },
     {
@@ -26,7 +27,8 @@
       "image": "https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg",
       "social": {
         "linkedin": "https://linkedin.com/in/carolinaperez",
-        "instagram": "https://instagram.com/carolinaperez"
+        "instagram": "https://instagram.com/carolinaperez",
+        "github": "https://github.com/anasilva"
       }
     },
     {

@@ -101,7 +101,7 @@ const Register: React.FC = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 mb-8">
             <a 
-              href="http://localhost:5173/"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeVnrrd5jDFUIAvxNGw2wPmG-I4qoRjPkWVDA77fSeWmIfcGA/viewform"
               className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary-700 rounded-xl font-bold shadow-lg hover:bg-primary-50 transition-all duration-300 transform hover:-translate-y-1"
             >
               <ClipboardList className="mr-2 h-5 w-5" />

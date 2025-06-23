@@ -1,13 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { 
-  BarChart, 
-  Users, 
-  TrendingUp, 
-  Award,
-  Star
-} from 'lucide-react';
+import { Star } from 'lucide-react';
 
 const Impact: React.FC = () => {
   const [ref, inView] = useInView({
@@ -15,50 +9,23 @@ const Impact: React.FC = () => {
     threshold: 0.1
   });
 
-  const stats = [
-    {
-      icon: <Users className="h-8 w-8 text-primary-500" />,
-      value: "50+",
-      label: "Participantes anuales",
-      description: "Niñas que se benefician del programa cada año"
-    },
-    {
-      icon: <TrendingUp className="h-8 w-8 text-primary-500" />,
-      value: "85%",
-      label: "Tasa de finalización",
-      description: "Participantes que completan todo el programa"
-    },
-    {
-      icon: <BarChart className="h-8 w-8 text-primary-500" />,
-      value: "92%",
-      label: "Satisfacción",
-      description: "Participantes que recomendarían el programa"
-    },
-    {
-      icon: <Award className="h-8 w-8 text-primary-500" />,
-      value: "30+",
-      label: "Proyectos creados",
-      description: "Prototipos funcionales desarrollados por cohorte"
-    }
-  ];
-
   const testimonials = [
     {
-      quote: "Arduino Quest cambió mi perspectiva sobre la tecnología. Ahora sé que puedo crear mis propios proyectos electrónicos y resolver problemas reales con la programación.",
-      name: "Carolina Martínez",
-      role: "Participante 2024",
+      quote: "Fue una experiencia muy enriquecedora; aprendí a utilizar Arduino Uno y diversas plataformas digitales, lo que me permitió desarrollar el pensamiento crítico y fortalecer mis habilidades tecnológicas.",
+      name: "Tiare Pérez Vergara",
+      role: "Arduino Quest 2021",
       rating: 5
     },
     {
-      quote: "Lo que más me gustó del programa fue la combinación entre teoría y práctica. Las mentorías personalizadas me ayudaron a superar los obstáculos cuando me sentía estancada.",
-      name: "Valentina Gómez",
-      role: "Participante 2024",
+      quote: "Las cosas que aprendí de Arduino me ayudaron con ramos que he tenido en la u donde tuve que ocupar componentes electrónicos, además de que aún tenía todos los componentes que venían en la caja y aún me sirven.",
+      name: "Katherina Hoffmann Ponce",
+      role: "Arduino Quest 2023",
       rating: 5
     },
     {
-      quote: "Como mentora, ver la evolución de las niñas durante el programa es increíblemente gratificante. Pasan de tener dudas sobre sus capacidades a crear proyectos impresionantes en solo 4 semanas.",
-      name: "Ana Rodríguez",
-      role: "Mentora",
+      quote: "Realizar el curso de arduino me permitió contar con mi primer Kit, puesto que no contaba con los recursos ni conocimientos para obtener uno por mis medios. Así, obtuve mis primeras experiencias prácticas más allá de seguir un tutorial, donde pude \"jugar\" con los componentes, gracias al cual incluso tras el curso pude seguir aprendiendo.",
+      name: "Diana Alcota Varas",
+      role: "Arduino Quest 2023",
       rating: 5
     }
   ];
@@ -79,38 +46,16 @@ const Impact: React.FC = () => {
             animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
             transition={{ duration: 0.5, delay: 0.1 }}
           >
-            Arduino Quest ha generado un impacto significativo en la participación femenina en áreas STEM. Conoce los resultados y testimonios de nuestras participantes.
+            Arduino Quest ha generado un impacto significativo en la participación femenina en áreas STEM. Conoce los testimonios de nuestras participantes.
           </motion.p>
         </div>
 
         <div className="mt-12" ref={ref}>
-          {/* Stats */}
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
-            {stats.map((stat, index) => (
-              <motion.div
-                key={index}
-                initial={{ opacity: 0, y: 20 }}
-                animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
-                transition={{ duration: 0.4, delay: 0.2 + index * 0.1 }}
-                className="bg-gray-50 rounded-xl p-6 text-center"
-              >
-                <div className="flex justify-center mb-4">
-                  <div className="p-3 bg-primary-100 rounded-lg">
-                    {stat.icon}
-                  </div>
-                </div>
-                <div className="text-3xl font-bold text-gray-900 mb-1">{stat.value}</div>
-                <div className="text-sm font-semibold text-primary-600 mb-2">{stat.label}</div>
-                <p className="text-gray-600 text-sm">{stat.description}</p>
-              </motion.div>
-            ))}
-          </div>
-
           {/* Evaluation method */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
-            transition={{ duration: 0.5, delay: 0.6 }}
+            transition={{ duration: 0.5, delay: 0.2 }}
             className="bg-gray-50 rounded-xl p-8 mb-16"
           >
             <h3 className="text-2xl font-bold text-gray-900 mb-6">Nuestra estrategia de evaluación de impacto</h3>
@@ -166,7 +111,7 @@ const Impact: React.FC = () => {
           <motion.h3
             initial={{ opacity: 0, y: 20 }}
             animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
-            transition={{ duration: 0.5, delay: 0.7 }}
+            transition={{ duration: 0.5, delay: 0.4 }}
             className="text-2xl font-bold text-gray-900 mb-8 text-center"
           >
             Testimonios de participantes
@@ -178,8 +123,8 @@ const Impact: React.FC = () => {
                 key={index}
                 initial={{ opacity: 0, y: 30 }}
                 animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
-                transition={{ duration: 0.5, delay: 0.8 + index * 0.1 }}
-                className="bg-white rounded-xl shadow-md p-6 relative"
+                transition={{ duration: 0.5, delay: 0.5 + index * 0.1 }}
+                className="bg-white rounded-xl shadow-md p-6 relative border border-gray-100 hover:shadow-lg transition-shadow duration-300"
               >
                 {/* Decorative quote mark */}
                 <div className="absolute top-6 right-6 text-primary-100 text-4xl font-serif">"</div>
@@ -191,13 +136,13 @@ const Impact: React.FC = () => {
                   ))}
                 </div>
                 
-                <blockquote className="text-gray-600 mb-6 relative z-10">
+                <blockquote className="text-gray-600 mb-6 relative z-10 leading-relaxed">
                   "{testimonial.quote}"
                 </blockquote>
                 
-                <div>
+                <div className="border-t border-gray-100 pt-4">
                   <div className="font-semibold text-gray-900">{testimonial.name}</div>
-                  <div className="text-sm text-primary-600">{testimonial.role}</div>
+                  <div className="text-sm text-primary-600 font-medium">{testimonial.role}</div>
                 </div>
               </motion.div>
             ))}

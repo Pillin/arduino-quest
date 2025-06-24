@@ -29,6 +29,9 @@ const Footer: React.FC = () => {
               <a href="https://www.linkedin.com/company/ninas-pro/" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5" />
               </a>
+              <a href="https://linktr.ee/NinasPro" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
+                <ExternalLink className="h-5 w-5" />
+              </a>
             </div>
             <div className="mt-6">
               <p className="text-sm text-gray-400">

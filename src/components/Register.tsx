@@ -109,7 +109,7 @@ const Register: React.FC = () => {
             </a>
             
             <a 
-              href="#"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSe_n2pgXjFby945FB5pQjGeyadOPrjrc4s6b_V7ZEk-fa_bvQ/viewform?usp=sharing&ouid=110699306797365833011"
               className="inline-flex items-center justify-center px-8 py-4 bg-accent-500 text-white rounded-xl font-bold shadow-lg hover:bg-accent-600 transition-all duration-300 transform hover:-translate-y-1"
             >
               <Heart className="mr-2 h-5 w-5" />

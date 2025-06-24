@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
               Una iniciativa de Niñas Pro para fomentar la participación femenina en STEM mediante una experiencia educativa intensiva y transformadora en electrónica y programación.
             </p>
             <div className="flex space-x-4">
-              <a href="https://www.instagram.com/ninaspro.cl/" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/ninas_pro/" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
                 <Instagram className="h-5 w-5" />
               </a>
               <a href="https://www.linkedin.com/company/ninas-pro/" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">

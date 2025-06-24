@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
               <a href="https://www.instagram.com/ninaspro.cl/" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="https://www.linkedin.com/company/ninaspro/" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/company/ninas-pro/" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5" />
               </a>
             </div>

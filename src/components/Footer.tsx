@@ -85,10 +85,6 @@ const Footer: React.FC = () => {
                 <Mail className="h-5 w-5 text-primary-400 mr-3 mt-0.5" />
                 <span className="text-gray-400">contacto@ninaspro.cl</span>
               </li>
-              <li className="flex items-start">
-                <MapPin className="h-5 w-5 text-primary-400 mr-3 mt-0.5" />
-                <span className="text-gray-400">Edmundo Larenas 219, Concepción, Chile. Facultad de Ingeniería, Universidad de Concepción.</span>
-              </li>
             </ul>
             
             <div className="mt-6">

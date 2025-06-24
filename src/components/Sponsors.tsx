@@ -159,7 +159,7 @@ const Sponsors: React.FC = () => {
               nos encantaría conocer cómo podemos trabajar juntos para inspirar a más niñas en STEM.
             </p>
             <a 
-              href="mailto:info@ninaspro.cl"
+              href="mailto:contacto@ninaspro.cl"
               className="inline-flex items-center px-6 py-3 bg-primary-600 text-white rounded-lg font-medium hover:bg-primary-700 transition-colors"
             >
               Contáctanos

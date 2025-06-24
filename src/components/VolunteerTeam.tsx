@@ -181,7 +181,7 @@ const VolunteerTeam: React.FC = () => {
           </div>
           <div className="text-center">
             <Button
-              href="#register"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSe_n2pgXjFby945FB5pQjGeyadOPrjrc4s6b_V7ZEk-fa_bvQ/viewform?usp=sharing&ouid=110699306797365833011"
               variant="accent"
               icon={Heart}
             >

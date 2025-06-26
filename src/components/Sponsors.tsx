@@ -24,7 +24,7 @@ const Sponsors: React.FC = () => {
       name: 'KORONELPLAS',
       description: 'Proveedor de las cajas y contenedores para organizar los kits de Arduino.',
       logo: null,
-      website: null,
+      website: "https://koronelplas.cl/ ",
       icon: <Package className="h-6 w-6 text-primary-500" />
     },
     {

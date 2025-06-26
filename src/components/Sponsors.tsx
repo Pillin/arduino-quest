@@ -32,7 +32,7 @@ const Sponsors: React.FC = () => {
       name: 'Mechatronic',
       description: 'Proveedor de los kits de Arduino y componentes electrónicos para el programa.',
       logo: 'https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Mechatronic/mechatronicstore.webp',
-      website: 'https://www.mechatronicstore.cl/ ',
+      website: 'https://www.mechatronicstore.cl/',
       icon: <Cpu className="h-6 w-6 text-primary-500" />
     }
   ];

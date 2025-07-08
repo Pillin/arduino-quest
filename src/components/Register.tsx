@@ -25,7 +25,7 @@ const Register: React.FC = () => {
     {
       icon: <CalendarCheck className="h-10 w-10 text-primary-500" />,
       title: "Espera la confirmación",
-      description: "Los resultados de la selección serán publicados el 11 de julio 2025 en nuestro sitio web y se notificará por correo electrónico."
+      description: "Los resultados de la selección serán publicados el 22 de julio 2025 en nuestro sitio web y se notificará por correo electrónico."
     },
     {
       icon: <Users className="h-10 w-10 text-primary-500" />,
@@ -96,7 +96,7 @@ const Register: React.FC = () => {
           className="flex flex-col items-center"
         >
           <p className="text-center mb-6 max-w-2xl mx-auto">
-            Las inscripciones estarán abiertas desde el <strong>23 de junio</strong> hasta el <strong>8 de julio del 2025</strong>. El cupo es limitado a 50 participantes, así que te recomendamos inscribirte lo antes posible.
+            Las inscripciones estarán abiertas desde el <strong>23 de junio</strong> hasta el <strong>19 de julio del 2025</strong>. El cupo es limitado a 50 participantes, así que te recomendamos inscribirte lo antes posible.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 mb-8">

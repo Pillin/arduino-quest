@@ -8,7 +8,7 @@
     {
       "icon": "CalendarCheck",
       "title": "Espera la confirmación",
-      "description": "Los resultados de la selección serán publicados el 11 de julio 2025 en nuestro sitio web y se notificará por correo electrónico."
+      "description": "Los resultados de la selección serán publicados el 22 de julio 2025 en nuestro sitio web y se notificará por correo electrónico."
     },
     {
       "icon": "Users",
@@ -23,7 +23,7 @@
   ],
   "registrationPeriod": {
     "start": "23 de junio",
-    "end": "8 de julio del 2025",
+    "end": "18 de julio del 2025",
     "maxParticipants": 50
   },
   "buttons": [

@@ -73,6 +73,53 @@
       "social": {
         "linkedin": "https://www.linkedin.com/in/pvasquezh"
       }
+    },
+    {
+      "name": "Alison Adriana Matus Bello",
+      "role": "Gestión del Curso",
+      "tag": "gestión",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/alison-matus-bello-24bb68201",
+        "instagram": "https://www.instagram.com/alisonmatus/"
+      }
+    },
+    {
+      "name": "Catherina Toro",
+      "role": "Gestión del Curso",
+      "tag": "gestión",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/catherina-toro-briones-2a382024a",
+        "instagram": "https://www.instagram.com/catherapy.ini/"
+      }
+    },
+    {
+      "name": "Fernanda Inostroza",
+      "role": "Tutora",
+      "tag": "mentora",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png",
+      "social": {
+        "instagram": "https://www.instagram.com/fefitait/"
+      }
+    },
+    {
+      "name": "Constanza Arias",
+      "role": "Tutora",
+      "tag": "mentora",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png",
+      "social": {
+        "instagram": "https://www.instagram.com/karias_27/"
+      }
+    },
+    {
+      "name": "Matías Soto Guerrero",
+      "role": "Tutora",
+      "tag": "mentora",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png",
+      "social": {
+        "instagram": "https://www.instagram.com/mati_andres_sg/"
+      }
     }
   ]
 }

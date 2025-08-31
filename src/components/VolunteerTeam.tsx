@@ -16,7 +16,7 @@ interface SocialLinks {
 interface Volunteer {
   name: string;
   role: string;
-  tag: 'líder' | 'gestión' | 'mentora';
+  tag: 'líder' | 'gestión' | 'mentora' | 'mentor';
   image: string;
   social: SocialLinks;
 }
@@ -47,6 +47,7 @@ const VolunteerTeam: React.FC = () => {
       case 'gestión':
         return 'bg-secondary-100 text-secondary-800';
       case 'mentora':
+      case 'mentor':
         return 'bg-accent-100 text-accent-800';
       default:
         return '';

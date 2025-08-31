@@ -88,7 +88,7 @@
       "name": "Catherina Toro",
       "role": "Gestión del Curso",
       "tag": "gestión",
-      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Voluntarias/Catherina_Toro.jpg",
       "social": {
         "linkedin": "https://www.linkedin.com/in/catherina-toro-briones-2a382024a",
         "instagram": "https://www.instagram.com/catherapy.ini/"
@@ -114,9 +114,18 @@
     },
     {
       "name": "Matías Soto Guerrero",
-      "role": "Tutora",
+      "role": "Tutor",
       "tag": "mentora",
-      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Voluntarias/Matias%20Soto.jpg",
+      "social": {
+        "instagram": "https://www.instagram.com/mati_andres_sg/"
+      }
+    },
+    {
+      "name": "Ignacio Osorio",
+      "role": "Tutor",
+      "tag": "mentora",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Voluntarias/Matias%20Soto.jpg",
       "social": {
         "instagram": "https://www.instagram.com/mati_andres_sg/"
       }

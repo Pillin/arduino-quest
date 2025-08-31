@@ -34,7 +34,7 @@ const VolunteerTeam: React.FC = () => {
       case 'gestión':
         return <Wrench className="h-4 w-4" />;
       case 'mentora':
-        case 'mentor'
+      case 'mentor':
         return <Heart className="h-4 w-4" />;
       default:
         return null;

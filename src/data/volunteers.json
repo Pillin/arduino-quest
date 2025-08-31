@@ -115,7 +115,7 @@
     {
       "name": "Matías Soto Guerrero",
       "role": "Tutor",
-      "tag": "mentora",
+      "tag": "mentor",
       "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Voluntarias/Matias%20Soto.jpg",
       "social": {
         "instagram": "https://www.instagram.com/mati_andres_sg/"
@@ -124,11 +124,11 @@
     {
       "name": "Ignacio Osorio",
       "role": "Tutor",
-      "tag": "mentora",
-      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Voluntarias/Matias%20Soto.jpg"
+      "tag": "mentor",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Voluntarias/Ignacio%20Osorio.jpg"
     },
     {
-      "name": "Catelina Navarrete",
+      "name": "Catalina Navarrete",
       "role": "Tutora",
       "tag": "mentora",
       "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
@@ -136,7 +136,7 @@
     {
       "name": "Ricardo Rojas",
       "role": "Tutor",
-      "tag": "mentora",
+      "tag": "mentor",
       "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
     },
     {
@@ -148,7 +148,7 @@
     {
       "name": "Francisco Cáceres",
       "role": "Tutor",
-      "tag": "mentora",
+      "tag": "mentor",
       "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
     }
   ]

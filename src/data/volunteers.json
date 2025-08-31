@@ -128,8 +128,26 @@
       "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Voluntarias/Matias%20Soto.jpg"
     },
     {
-      "name": "Catherina Toro",
+      "name": "Catelina Navarrete",
       "role": "Tutora",
+      "tag": "mentora",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
+    },
+    {
+      "name": "Ricardo Rojas",
+      "role": "Tutor",
+      "tag": "mentora",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
+    },
+    {
+      "name": "Christianne Alveal",
+      "role": "Tutora",
+      "tag": "mentora",
+      "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
+    },
+    {
+      "name": "Francisco Cáceres",
+      "role": "Tutor",
       "tag": "mentora",
       "image": "https://pub-b35d2d84fa534f64a0c5ac280c705854.r2.dev/Logo%20Nin%CC%83as%20Pro/Logo%20Azul.png"
     }

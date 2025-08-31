@@ -93,7 +93,7 @@ const VolunteerTeam: React.FC = () => {
                 <p className="text-primary-600 font-medium mb-4">{volunteer.role}</p>
                 
                 <div className="flex space-x-3">
-                  {volunteer.social.linkedin && (
+                  {volunteer.social?.linkedin && (
                     <a 
                       href={volunteer.social.linkedin}
                       target="_blank"
@@ -104,7 +104,7 @@ const VolunteerTeam: React.FC = () => {
                       <Linkedin className="h-5 w-5" />
                     </a>
                   )}
-                  {volunteer.social.github && (
+                  {volunteer.social?.github && (
                     <a 
                       href={volunteer.social.github}
                       target="_blank"
@@ -115,7 +115,7 @@ const VolunteerTeam: React.FC = () => {
                       <Github className="h-5 w-5" />
                     </a>
                   )}
-                  {volunteer.social.instagram && (
+                  {volunteer.social?.instagram && (
                     <a 
                       href={volunteer.social.instagram}
                       target="_blank"
@@ -126,7 +126,7 @@ const VolunteerTeam: React.FC = () => {
                       <Instagram className="h-5 w-5" />
                     </a>
                   )}
-                  {volunteer.social.twitter && (
+                  {volunteer.social?.twitter && (
                     <a 
                       href={volunteer.social.twitter}
                       target="_blank"
